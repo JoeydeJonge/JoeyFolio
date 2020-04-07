@@ -114,7 +114,7 @@ const openSource = {
   /* Your Open Source Section to View Your Github Pinned Projects */
   /* To know how to get github key look at readme.md */
 
-  githubConvertedToken: "4441976d91ffa1d7e5b9e0d6541eadccc7e65888  ",
+  githubConvertedToken: "OTdmM2Y4NjEyOTMyNDhiNDUwMmE0YTg2MjgzMGJmNWY4NjJlNmY2Yw==",
   githubUserName: "JoeydeJonge"
 };
 
