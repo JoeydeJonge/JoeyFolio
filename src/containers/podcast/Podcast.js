@@ -16,6 +16,10 @@ export default function Podcast() {
           return (
             <div>
               <iframe src="https://open.spotify.com/embed/track/7ua5ORSWsf8JOrcX6SJ9Ub" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+              <iframe src="https://open.spotify.com/embed/track/3LK6wDkhbTyg8GhJidU9oC" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+              <iframe src="https://open.spotify.com/embed/track/2kJwzbxV2ppxnQoYw4GLBZ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
             </div>
           );
         })}
