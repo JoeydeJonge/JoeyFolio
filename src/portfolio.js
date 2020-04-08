@@ -278,9 +278,5 @@ const contactInfo = {
 
 //Twitter Section
 
-const twitterDetails = {
 
-  userName: "jonge_joey"//Replace "twitter" with your twitter username without @
-
-};
-export { greeting, socialMediaLinks, skillsSection, techStack, openSource, bigProjects, achievementSection, blogSection, gameSection, talkSection, podcastSection, contactInfo , twitterDetails};
+export { greeting, socialMediaLinks, skillsSection, techStack, openSource, bigProjects, achievementSection, blogSection, gameSection, talkSection, podcastSection, contactInfo};
